@@ -26,6 +26,14 @@ nav a{
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
+
+
+nav a:hover{
+     color: #c78c19;
+     text-decoration: underline;
+}
+
+
 }
 
 .produtos{
